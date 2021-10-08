@@ -1,0 +1,11 @@
+{
+  "key": "ADP",
+  "strings": {
+    "ONE_WORD": {
+      "key": "ONE_WORD",
+      "value": "Word"
+    }
+  },
+  "type": "FIVE9_LANG_EXCHANGE",
+  "version": "1"
+}
